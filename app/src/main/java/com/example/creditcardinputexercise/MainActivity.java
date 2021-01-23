@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
                  }
                  else{
-                     cardnumber.setError("Incorrect card no");
+                     cardnumber.setError("Incorrect card no.");
                      return;
                  }
                  int check = 1;
